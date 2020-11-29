@@ -1,0 +1,39 @@
+.bg{
+  background-color: #f5dfdf;
+}
+.imgsize{
+  width:75%;
+  height: 75%;
+}
+.bootstrap{
+}
+.bg2{
+  background-color: #f5e9e9;
+}
+.bg3-section1{
+  background-color: #f7e1e1;
+  margin:0;
+  padding-top: 5em;
+}
+.bg4-header{
+  background-color: #d68b8b;
+  position: fixed;
+  width: 100%;
+  z-index: 1
+}
+/*icon*/
+.gb{
+  color: #d68b8b;
+}
+.bg-section3{
+  color:#242222;
+}
+.bg4-footer{
+  background-color: #d68b8b;
+}
+.html{
+  scroll-behavior: smooth;
+}
+.footer-icons{
+  color: black;
+}
